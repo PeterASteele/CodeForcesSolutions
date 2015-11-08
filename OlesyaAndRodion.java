@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
+//http://codeforces.com/contest/584/problem/A
 public class OlesyaAndRodion {
 	public static void main(String[] args) {
 		Scanner input = new Scanner();
